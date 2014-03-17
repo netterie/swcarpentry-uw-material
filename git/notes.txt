@@ -1,6 +1,5 @@
 Notes from Git sessions:
 
-
 Terms:
 repository (repo)
 commit
@@ -45,3 +44,9 @@ Goal: make directory and get the files from your colleague's remote repository i
 Using shell + git commands - How many commands?  
 
 
+=======
+Local
+Main workflow: init, then add/commit
+
+Remote
+Main workflow...don't know yet
