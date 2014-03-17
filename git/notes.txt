@@ -1,3 +1,51 @@
 Notes from Git sessions:
 
+
+Terms:
+repository (repo)
+commit
+staging area / staged
+
+Commands:
+$ git config --global user.name “Christina Koch”
+$ git config --global user.email "koch.christinal@gmail.com"
+$ git config --global color.ui "auto"
+$ git config --global core.editor "notepad"
+$git status
+$git init 
+$git add (filename) or $git add -A
+$git commit -m “commit message”
+$git log or $git log --oneline or $git log --oneline --stat
+$git status
+$git diff (version) (version) (filename)
+$git checkout (version) (filename)
+
+$git remote add (name) (address)
+$git remote rm (name)
+$git remote or $git remote -v
+$git pull (remote) (branch)
+$git push (remote) (branch)
+$git clone (address) (name)
+($git merge)
+
+grep Question Analytics_Fall2013.csv | head
+
+remove Analytics_1900.csv + commit
+edit script above to take any filename + commit
+
+Make a github account!
+
+Edit README.md file
+Commit changes
+Push changes to remote repository
+
+Scenario: you want to copy your colleague's files to your computer to make changes.
+Goal: make directory and get the files from your colleague's remote repository into it.  
+
+Using shell + git commands - How many commands?  
+
+
+
+
+
 - 
