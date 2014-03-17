@@ -45,7 +45,3 @@ Goal: make directory and get the files from your colleague's remote repository i
 Using shell + git commands - How many commands?  
 
 
-
-
-
-- 
